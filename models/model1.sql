@@ -1,0 +1,1 @@
+select * from dc_demo_redshift.airtbl_table_report_kr

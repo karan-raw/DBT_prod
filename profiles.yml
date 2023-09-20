@@ -1,0 +1,12 @@
+redshift:
+  outputs:
+    redshift:
+      dbname: demo_redshift
+      host: datachannel-dev-3.ca0fbmphxrad.us-east-1.redshift.amazonaws.com
+      password: h7Q69k6PSC15124f
+      port: 5439
+      schema: dc_demo_redshift
+      sslmode: require
+      type: redshift
+      user: load_user_demo_redshift
+  target: redshift
