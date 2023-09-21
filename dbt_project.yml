@@ -2,6 +2,6 @@ name: 'DBTProject'
 
 version: '1.0.0'
 
-# config-version: 2
+config-version: 2
 
 profile: 'redshift'
